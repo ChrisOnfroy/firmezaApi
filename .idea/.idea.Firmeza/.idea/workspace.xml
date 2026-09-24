@@ -28,7 +28,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Firmeza.Application/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Firmeza.Application/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Firmeza.Domain/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Firmeza.Infrastructure/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -37,23 +39,23 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.5140569133280333" />
-      <entry key="MS500" value="1.8754153202672983" />
-      <entry key="S2" value="2.510054865540856" />
-      <entry key="S5" value="8.034761125269991" />
-      <entry key="S10" value="20.70223755248558" />
-      <entry key="S30" value="49.36365027609659" />
-      <entry key="S60" value="63.26423918245841" />
-      <entry key="M2" value="72.91786923784522" />
-      <entry key="M5" value="88.99559810892251" />
-      <entry key="M10" value="104.91687412653118" />
-      <entry key="M15" value="113.32598144569084" />
-      <entry key="M30" value="124.1107594810198" />
-      <entry key="H1" value="130.61372876708472" />
-      <entry key="H2" value="134.18893987368966" />
-      <entry key="H4" value="136.0639937939206" />
-      <entry key="D1" value="137.6730123037824" />
-      <entry key="W1" value="137.95318052016654" />
+      <entry key="MS100" value="2.4552508618573397" />
+      <entry key="MS500" value="6.5088312500483125" />
+      <entry key="S2" value="18.149297345294922" />
+      <entry key="S5" value="33.10371649385473" />
+      <entry key="S10" value="45.39488254240465" />
+      <entry key="S30" value="60.76932280422469" />
+      <entry key="S60" value="66.79707668573927" />
+      <entry key="M2" value="70.94992912802779" />
+      <entry key="M5" value="75.05570782522338" />
+      <entry key="M10" value="82.05174502512364" />
+      <entry key="M15" value="93.24349742323865" />
+      <entry key="M30" value="125.57914691039406" />
+      <entry key="H1" value="161.04098616368935" />
+      <entry key="H2" value="187.70380187943343" />
+      <entry key="H4" value="204.113140363433" />
+      <entry key="D1" value="219.66462515384745" />
+      <entry key="W1" value="222.51870729839666" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -75,30 +77,36 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.4290258111880187" />
-      <entry key="MS500" value="1.85353192347338" />
-      <entry key="S2" value="2.5030014597694814" />
-      <entry key="S5" value="8.026571202076752" />
-      <entry key="S10" value="20.691907040634376" />
-      <entry key="S30" value="49.35546391323601" />
-      <entry key="S60" value="63.25898867399675" />
-      <entry key="M2" value="72.91483819192284" />
-      <entry key="M5" value="88.99410433765037" />
-      <entry key="M10" value="104.91598537179269" />
-      <entry key="M15" value="113.32533878755733" />
-      <entry key="M30" value="124.1104059359128" />
-      <entry key="H1" value="130.6135422713277" />
-      <entry key="H2" value="134.18884395166899" />
-      <entry key="H4" value="136.06394513150346" />
-      <entry key="D1" value="137.67300409305028" />
-      <entry key="W1" value="137.9531793447088" />
+      <entry key="MS100" value="2.363005082451178" />
+      <entry key="MS500" value="6.456730253457569" />
+      <entry key="S2" value="18.112395646939536" />
+      <entry key="S5" value="33.07685456606111" />
+      <entry key="S10" value="45.3762973370557" />
+      <entry key="S30" value="60.7608899795634" />
+      <entry key="S60" value="66.79240987657181" />
+      <entry key="M2" value="70.94743829238705" />
+      <entry key="M5" value="75.05464812657743" />
+      <entry key="M10" value="82.05115765279362" />
+      <entry key="M15" value="93.24304309683627" />
+      <entry key="M30" value="125.57882830430133" />
+      <entry key="H1" value="161.04077646493536" />
+      <entry key="H2" value="187.70367803752436" />
+      <entry key="H4" value="204.1130725908603" />
+      <entry key="D1" value="219.66461293342743" />
+      <entry key="W1" value="222.51870552836144" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3JmpjNbmI4Ql9fJlRdMFdhV9YnD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -190,7 +198,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Creacion del Readme" />
     <MESSAGE value="Creacion de capas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de capas" />
+    <MESSAGE value="se agregaron las referencias entre capas y se creo el proyecto de pruebas" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agregaron las referencias entre capas y se creo el proyecto de pruebas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
