@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Firmeza.Application\Firmeza.Application.csproj" />
+    <ProjectReference Include="..\Firmeza.Infrastructure\Firmeza.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
