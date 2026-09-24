@@ -20,6 +20,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -39,23 +42,23 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.4552508618573397" />
-      <entry key="MS500" value="6.5088312500483125" />
-      <entry key="S2" value="18.149297345294922" />
-      <entry key="S5" value="33.10371649385473" />
-      <entry key="S10" value="45.39488254240465" />
-      <entry key="S30" value="60.76932280422469" />
-      <entry key="S60" value="66.79707668573927" />
-      <entry key="M2" value="70.94992912802779" />
-      <entry key="M5" value="75.05570782522338" />
-      <entry key="M10" value="82.05174502512364" />
-      <entry key="M15" value="93.24349742323865" />
-      <entry key="M30" value="125.57914691039406" />
-      <entry key="H1" value="161.04098616368935" />
-      <entry key="H2" value="187.70380187943343" />
-      <entry key="H4" value="204.113140363433" />
-      <entry key="D1" value="219.66462515384745" />
-      <entry key="W1" value="222.51870729839666" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000168245878909" />
+      <entry key="S2" value="1.4900911689535392" />
+      <entry key="S5" value="6.272800100459175" />
+      <entry key="S10" value="16.325717881594915" />
+      <entry key="S30" value="50.49614618421235" />
+      <entry key="S60" value="75.76917329015099" />
+      <entry key="M2" value="95.97120233314422" />
+      <entry key="M5" value="118.05810689051339" />
+      <entry key="M10" value="144.26240841396736" />
+      <entry key="M15" value="167.60329783845197" />
+      <entry key="M30" value="222.07987906362155" />
+      <entry key="H1" value="283.2917784017834" />
+      <entry key="H2" value="333.1990429978573" />
+      <entry key="H4" value="365.758615302895" />
+      <entry key="D1" value="397.9327295175074" />
+      <entry key="W1" value="403.9765669338454" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -77,23 +80,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.363005082451178" />
-      <entry key="MS500" value="6.456730253457569" />
-      <entry key="S2" value="18.112395646939536" />
-      <entry key="S5" value="33.07685456606111" />
-      <entry key="S10" value="45.3762973370557" />
-      <entry key="S30" value="60.7608899795634" />
-      <entry key="S60" value="66.79240987657181" />
-      <entry key="M2" value="70.94743829238705" />
-      <entry key="M5" value="75.05464812657743" />
-      <entry key="M10" value="82.05115765279362" />
-      <entry key="M15" value="93.24304309683627" />
-      <entry key="M30" value="125.57882830430133" />
-      <entry key="H1" value="161.04077646493536" />
-      <entry key="H2" value="187.70367803752436" />
-      <entry key="H4" value="204.1130725908603" />
-      <entry key="D1" value="219.66461293342743" />
-      <entry key="W1" value="222.51870552836144" />
+      <entry key="MS100" value="0.9862327044933592" />
+      <entry key="MS500" value="0.9972479174246299" />
+      <entry key="S2" value="1.4882495205768251" />
+      <entry key="S5" value="6.267610093470129" />
+      <entry key="S10" value="16.31843338878693" />
+      <entry key="S30" value="50.48835063509682" />
+      <entry key="S60" value="75.76327795325817" />
+      <entry key="M2" value="95.96744549752863" />
+      <entry key="M5" value="118.05612433424766" />
+      <entry key="M10" value="144.26093068236477" />
+      <entry key="M15" value="167.60201207135756" />
+      <entry key="M30" value="222.07893098551318" />
+      <entry key="H1" value="283.2911597183443" />
+      <entry key="H2" value="333.1986802637007" />
+      <entry key="H4" value="365.75841736002786" />
+      <entry key="D1" value="397.93269387693636" />
+      <entry key="W1" value="403.97656177228646" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -113,6 +116,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Firmeza.Presentation: http.executor": "Run",
     "KEY_CHAT_IN_TOOLWINDOW": "false",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -199,7 +203,8 @@
     <MESSAGE value="Creacion del Readme" />
     <MESSAGE value="Creacion de capas" />
     <MESSAGE value="se agregaron las referencias entre capas y se creo el proyecto de pruebas" />
-    <option name="LAST_COMMIT_MESSAGE" value="se agregaron las referencias entre capas y se creo el proyecto de pruebas" />
+    <MESSAGE value="se intergaron los metodos de inyeccion de dependencias" />
+    <option name="LAST_COMMIT_MESSAGE" value="se intergaron los metodos de inyeccion de dependencias" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
