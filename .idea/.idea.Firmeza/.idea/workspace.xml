@@ -23,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="04b09dec-5ab5-4aa8-83b7-ab992841c7e4" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Firmeza.Application/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Firmeza.Domain/Class1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,6 +35,65 @@
     <urls />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5140569133280333" />
+      <entry key="MS500" value="1.8754153202672983" />
+      <entry key="S2" value="2.510054865540856" />
+      <entry key="S5" value="8.034761125269991" />
+      <entry key="S10" value="20.70223755248558" />
+      <entry key="S30" value="49.36365027609659" />
+      <entry key="S60" value="63.26423918245841" />
+      <entry key="M2" value="72.91786923784522" />
+      <entry key="M5" value="88.99559810892251" />
+      <entry key="M10" value="104.91687412653118" />
+      <entry key="M15" value="113.32598144569084" />
+      <entry key="M30" value="124.1107594810198" />
+      <entry key="H1" value="130.61372876708472" />
+      <entry key="H2" value="134.18893987368966" />
+      <entry key="H4" value="136.0639937939206" />
+      <entry key="D1" value="137.6730123037824" />
+      <entry key="W1" value="137.95318052016654" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4290258111880187" />
+      <entry key="MS500" value="1.85353192347338" />
+      <entry key="S2" value="2.5030014597694814" />
+      <entry key="S5" value="8.026571202076752" />
+      <entry key="S10" value="20.691907040634376" />
+      <entry key="S30" value="49.35546391323601" />
+      <entry key="S60" value="63.25898867399675" />
+      <entry key="M2" value="72.91483819192284" />
+      <entry key="M5" value="88.99410433765037" />
+      <entry key="M10" value="104.91598537179269" />
+      <entry key="M15" value="113.32533878755733" />
+      <entry key="M30" value="124.1104059359128" />
+      <entry key="H1" value="130.6135422713277" />
+      <entry key="H2" value="134.18884395166899" />
+      <entry key="H4" value="136.06394513150346" />
+      <entry key="D1" value="137.67300409305028" />
+      <entry key="W1" value="137.9531793447088" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
   "fromUser": false
@@ -127,7 +189,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Creacion del Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion del Readme" />
+    <MESSAGE value="Creacion de capas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion de capas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
