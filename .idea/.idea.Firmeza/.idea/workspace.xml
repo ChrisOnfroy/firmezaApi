@@ -14,7 +14,29 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e38751e-77a9-4380-b952-0f58cf46c624" name="Changes" comment="" />
+    <list default="true" id="6e38751e-77a9-4380-b952-0f58cf46c624" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Firmeza/.idea/jsonSchemas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/database-setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/ApplicationDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/AspNetRole.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/AspNetRoleClaim.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/AspNetUser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/AspNetUserClaim.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/AspNetUserLogin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/AspNetUserToken.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/Customer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/ProductCategory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/Sale.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Persistence/Entities/SaleDetail.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Firmeza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Firmeza/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firmeza.Infrastructure/DependencyInjection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/DependencyInjection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Firmeza.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Firmeza.Infrastructure/Firmeza.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firmeza.Presentation/Firmeza.Presentation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Firmeza.Presentation/Firmeza.Presentation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firmeza.Presentation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Firmeza.Presentation/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firmeza.Presentation/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Firmeza.Presentation/appsettings.Development.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,23 +64,23 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000168245878909" />
-      <entry key="S2" value="1.4900911689535392" />
-      <entry key="S5" value="6.272800100459175" />
-      <entry key="S10" value="16.325717881594915" />
-      <entry key="S30" value="50.49614618421235" />
-      <entry key="S60" value="75.76917329015099" />
-      <entry key="M2" value="95.97120233314422" />
-      <entry key="M5" value="118.05810689051339" />
-      <entry key="M10" value="144.26240841396736" />
-      <entry key="M15" value="167.60329783845197" />
-      <entry key="M30" value="222.07987906362155" />
-      <entry key="H1" value="283.2917784017834" />
-      <entry key="H2" value="333.1990429978573" />
-      <entry key="H4" value="365.758615302895" />
-      <entry key="D1" value="397.9327295175074" />
-      <entry key="W1" value="403.9765669338454" />
+      <entry key="MS100" value="1.8137366590486175" />
+      <entry key="MS500" value="5.120011194649007" />
+      <entry key="S2" value="10.246948068935875" />
+      <entry key="S5" value="16.704224634497287" />
+      <entry key="S10" value="24.032532451253118" />
+      <entry key="S30" value="54.39969889429932" />
+      <entry key="S60" value="82.37025753710329" />
+      <entry key="M2" value="109.10889409832836" />
+      <entry key="M5" value="168.30200322114197" />
+      <entry key="M10" value="270.4701272439944" />
+      <entry key="M15" value="353.99914863038504" />
+      <entry key="M30" value="520.3436502548197" />
+      <entry key="H1" value="704.7964585855991" />
+      <entry key="H2" value="879.2136283218082" />
+      <entry key="H4" value="1010.621153261391" />
+      <entry key="D1" value="1156.6152566351354" />
+      <entry key="W1" value="1185.9672027623064" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -80,32 +102,32 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9862327044933592" />
-      <entry key="MS500" value="0.9972479174246299" />
-      <entry key="S2" value="1.4882495205768251" />
-      <entry key="S5" value="6.267610093470129" />
-      <entry key="S10" value="16.31843338878693" />
-      <entry key="S30" value="50.48835063509682" />
-      <entry key="S60" value="75.76327795325817" />
-      <entry key="M2" value="95.96744549752863" />
-      <entry key="M5" value="118.05612433424766" />
-      <entry key="M10" value="144.26093068236477" />
-      <entry key="M15" value="167.60201207135756" />
-      <entry key="M30" value="222.07893098551318" />
-      <entry key="H1" value="283.2911597183443" />
-      <entry key="H2" value="333.1986802637007" />
-      <entry key="H4" value="365.75841736002786" />
-      <entry key="D1" value="397.93269387693636" />
-      <entry key="W1" value="403.97656177228646" />
+      <entry key="MS100" value="1.7174727744612777" />
+      <entry key="MS500" value="5.060446163834094" />
+      <entry key="S2" value="10.2168103031107" />
+      <entry key="S5" value="16.684091595969708" />
+      <entry key="S10" value="24.01362058901035" />
+      <entry key="S30" value="54.37942082493917" />
+      <entry key="S60" value="82.35475129266273" />
+      <entry key="M2" value="109.09900345602793" />
+      <entry key="M5" value="168.29687693759547" />
+      <entry key="M10" value="270.4667514710581" />
+      <entry key="M15" value="353.99645119677564" />
+      <entry key="M30" value="520.3418193347524" />
+      <entry key="H1" value="704.7952343133084" />
+      <entry key="H2" value="879.2128569004446" />
+      <entry key="H4" value="1010.6207055480552" />
+      <entry key="D1" value="1156.6151703793228" />
+      <entry key="W1" value="1185.967190104208" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JmpjNbmI4Ql9fJlRdMFdhV9YnD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -117,6 +139,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Launch Settings Profile.Firmeza.Presentation: http.executor": "Run",
+    ".NET Launch Settings Profile.Firmeza.Presentation: https.executor": "Run",
     "KEY_CHAT_IN_TOOLWINDOW": "false",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -134,11 +157,12 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "rider.unittesting.toolwindow.stripe.button.shown": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Firmeza.Presentation: http">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Firmeza.Presentation: https">
     <configuration name="Firmeza.Presentation: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Firmeza.Presentation/Firmeza.Presentation.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net10.0" />
@@ -204,7 +228,9 @@
     <MESSAGE value="Creacion de capas" />
     <MESSAGE value="se agregaron las referencias entre capas y se creo el proyecto de pruebas" />
     <MESSAGE value="se intergaron los metodos de inyeccion de dependencias" />
-    <option name="LAST_COMMIT_MESSAGE" value="se intergaron los metodos de inyeccion de dependencias" />
+    <MESSAGE value="invocamos registros en Firmeza.Presentation/program.cs y tambien se comprobo que todo complió correctamente" />
+    <MESSAGE value="Dejé el perfil https primero en launchSettings.json y configuré que abra /swagger al iniciar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dejé el perfil https primero en launchSettings.json y configuré que abra /swagger al iniciar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
